@@ -1,5 +1,5 @@
 # HPE Prova Final
 
-Versão pública estática do guia de estudos de História do Pensamento Econômico.
+Versão pública estática e autocontida do guia de estudos de História do Pensamento Econômico.
 
-Observação: materiais locais, PDFs do Teams e arquivos protegidos não são publicados aqui. A página redireciona esses links para a bibliografia pública do curso.
+O `index.html` embute o guia, os PDFs/slides/provas locais autorizados para esta publicação e uma aba de podcast de revisão por tutorial com leitura em voz alta via navegador.
